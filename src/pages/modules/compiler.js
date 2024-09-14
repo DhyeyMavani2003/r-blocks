@@ -29,7 +29,7 @@ export default function Sidebar() {
                 
                 <div>
                     
-                    <iframe id="snippet" width='100%' height='800' src='https://rdrr.io/snippets/embed/?code=library(mosaic)' frameborder='0'>
+                    <iframe title="Compiler Output" id="snippet" width='100%' height='800' src='https://rdrr.io/snippets/embed/?code=library(mosaic)' frameborder='0'>
                         Documentation Support: https://rdrr.io/snippets/embedding/
                     </iframe>
 

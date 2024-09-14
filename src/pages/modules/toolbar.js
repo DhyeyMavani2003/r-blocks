@@ -3,14 +3,14 @@ import React from 'react';
 
 //Modules (No Minor Modules please)
 
-//Icons
-import FolderIcon from '@mui/icons-material/Folder';
-import PlayArrowIcon from '@mui/icons-material/PlayArrow';
-import DangerousIcon from '@mui/icons-material/Dangerous';
-import FiberNewIcon from '@mui/icons-material/FiberNew';
+// //Icons
+// import FolderIcon from '@mui/icons-material/Folder';
+// import PlayArrowIcon from '@mui/icons-material/PlayArrow';
+// import DangerousIcon from '@mui/icons-material/Dangerous';
+// import FiberNewIcon from '@mui/icons-material/FiberNew';
 
-//Contexts
-import { useSwitchState } from './helper/functions';
+// //Contexts
+// import { useSwitchState } from './helper/functions';
 
 //Style
 import "./styles/base.css";
