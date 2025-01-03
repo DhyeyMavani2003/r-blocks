@@ -258,6 +258,46 @@ export default function Workspace() {
             kind: 'block',
             type: 'gf_point',
           },
+          {
+            kind: 'block',
+            type: 'ggplot_init',
+          },
+          {
+            kind: 'block',
+            type: 'geom_point',
+          },
+          {
+            kind: 'block',
+            type: 'geom_line',
+          },
+          {
+            kind: 'block',
+            type: 'geom_smooth',
+          },
+          {
+            kind: 'block',
+            type: 'geom_bar',
+          },
+          {
+            kind: 'block',
+            type: 'geom_boxplot',
+          },
+          {
+            kind: 'block',
+            type: 'geom_histogram',
+          },
+          {
+            kind: 'block',
+            type: 'geom_density',
+          },
+          {
+            kind: 'block',
+            type: 'theme_minimal',
+          },
+          {
+            kind: 'block',
+            type: 'labs',
+          },
         ],
       },
       {
@@ -312,6 +352,46 @@ export default function Workspace() {
           {
             kind: 'block',
             type: 'Ggf_point',
+          },
+          {
+            kind: 'block',
+            type: 'Gggplot_init',
+          },
+          {
+            kind: 'block',
+            type: 'Ggeom_point',
+          },
+          {
+            kind: 'block',
+            type: 'Ggeom_line',
+          },
+          {
+            kind: 'block',
+            type: 'Ggeom_smooth',
+          },
+          {
+            kind: 'block',
+            type: 'Ggeom_bar',
+          },
+          {
+            kind: 'block',
+            type: 'Ggeom_boxplot',
+          },
+          {
+            kind: 'block',
+            type: 'Ggeom_histogram',
+          },
+          {
+            kind: 'block',
+            type: 'Ggeom_density',
+          },
+          {
+            kind: 'block',
+            type: 'Gtheme_minimal',
+          },
+          {
+            kind: 'block',
+            type: 'Glabs',
           },
         ],
       },

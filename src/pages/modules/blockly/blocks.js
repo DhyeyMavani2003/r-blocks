@@ -67,6 +67,26 @@ import './blocks/visualization/Ggf_histogram_substance';
 import './blocks/visualization/Ggf_point';
 import './blocks/visualization/mosaicplot';
 import './blocks/visualization/pie';
+import './blocks/visualization/geom_bar';
+import './blocks/visualization/geom_boxplot';
+import './blocks/visualization/geom_density';
+import './blocks/visualization/geom_histogram';
+import './blocks/visualization/geom_line';
+import './blocks/visualization/geom_point';
+import './blocks/visualization/geom_smooth';
+import './blocks/visualization/Ggeom_bar';
+import './blocks/visualization/Ggeom_boxplot';
+import './blocks/visualization/Ggeom_density';
+import './blocks/visualization/Ggeom_histogram';
+import './blocks/visualization/Ggeom_line';
+import './blocks/visualization/Ggeom_point';
+import './blocks/visualization/Ggeom_smooth';
+import './blocks/visualization/Gggplot_init';
+import './blocks/visualization/ggplot_init';
+import './blocks/visualization/Glabs';
+import './blocks/visualization/Gtheme_minimal';
+import './blocks/visualization/labs.js';
+import './blocks/visualization/theme_minimal.js';
 
 // Setup R blocks generator
 Blockly.RBlocks = new Blockly.Generator('RBlocks');
