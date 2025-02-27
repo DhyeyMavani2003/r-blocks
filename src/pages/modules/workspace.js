@@ -272,6 +272,16 @@ export default function Workspace({ initialWorkspaceXml, onWorkspaceInstance }) 
           },
         ],
       },
+      {
+        kind: 'category',
+        name: 'Randomization',
+        colour: '#FF6B5B',
+        contents: [
+          { kind: 'block', type: 'bootstrap_ci_prop' },  // Add this line
+          { kind: 'block', type: 'bootstrap_test_prop' }, // Add this line
+          { kind: 'block', type: 'bootstrap' },  // Your existing block
+        ],
+      }
     ],
   };
 

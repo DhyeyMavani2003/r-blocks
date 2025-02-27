@@ -72,6 +72,7 @@ import './blocks/visualization/Glabs';
 import './blocks/visualization/Gtheme_minimal';
 import './blocks/visualization/labs.js';
 import './blocks/visualization/theme_minimal.js';
+import './blocks/randomization/bootstrap.js';
 
 // Setup R blocks generator
 Blockly.RBlocks = new Blockly.Generator('RBlocks');
